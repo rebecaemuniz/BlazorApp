@@ -1,0 +1,10 @@
+C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Shared\bin\Debug\netstandard2.1\BlazerTutorial.Shared.deps.json
+C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Shared\bin\Debug\netstandard2.1\BlazerTutorial.Shared.dll
+C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Shared\bin\Debug\netstandard2.1\BlazerTutorial.Shared.pdb
+C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Shared\obj\Debug\netstandard2.1\BlazerTutorial.Shared.csproj.AssemblyReference.cache
+C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Shared\obj\Debug\netstandard2.1\BlazerTutorial.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Shared\obj\Debug\netstandard2.1\BlazerTutorial.Shared.AssemblyInfoInputs.cache
+C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Shared\obj\Debug\netstandard2.1\BlazerTutorial.Shared.AssemblyInfo.cs
+C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Shared\obj\Debug\netstandard2.1\BlazerTutorial.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Shared\obj\Debug\netstandard2.1\BlazerTutorial.Shared.dll
+C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Shared\obj\Debug\netstandard2.1\BlazerTutorial.Shared.pdb
