@@ -368,6 +368,6 @@ C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Pr
 C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\obj\Debug\netstandard2.1\BlazerTutorial.Client.csproj.CopyComplete
 C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\obj\Debug\netstandard2.1\BlazerTutorial.Client.dll
 C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\obj\Debug\netstandard2.1\BlazerTutorial.Client.pdb
-C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\obj\Debug\netstandard2.1\integrity\KWtao1JlKuxNWyRK_z4gB7OrcNwa-rsUJK5NeVfxDec=.hash
-C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\obj\Debug\netstandard2.1\integrity\Z6bteDo8TMPSIPIYkO7RnzQ5bewqMTBebG2QY-7b4tA=.hash
-C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\obj\Debug\netstandard2.1\integrity\ww2hRKKE-MLMVOlxFvM3HYrF7rKfijwTgRvL5zG9Ba0=.hash
+C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\obj\Debug\netstandard2.1\integrity\hbCeXwDzASPJk0_rv5YXUMJt36RMPXW3J2UNNb6KDcU=.hash
+C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\obj\Debug\netstandard2.1\integrity\azd21rm2XM_hefbmHGw--hsQ7aMheRUmcgnj6YhbCQA=.hash
+C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\obj\Debug\netstandard2.1\integrity\sRdFpitzltqKyP5hW-dvGEAwk1CBZ9_oW7QQ6AvVjgA=.hash
