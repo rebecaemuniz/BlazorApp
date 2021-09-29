@@ -1,0 +1,34 @@
+@page "/ipo"
+
+<h1>IPO</h1>
+
+<p>Enter a Number</p>
+<p>This will mulitply the number entered by 2.</p>
+
+<input @bind="InputString" type="number" />
+
+<button class="btn btn-primary" @onclick="DoProcessing">Calculate</button>
+
+<p>Output: @OutputString </p>
+
+@code
+
+{
+
+    private string InputString { get; set; }
+
+    private string OutputString { get; set; }
+
+    private void DoProcessing()
+
+    {
+
+        double num = double.Parse(InputString);
+
+        num = num * 2;
+
+        OutputString = num.ToString();
+
+    }
+
+}

@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace BlazerTutorial.Client.Shared
+namespace BlazerTutorial.Client.Pages
 {
     #line hidden
     using System;
@@ -75,7 +75,8 @@ using BlazerTutorial.Client.Shared;
 #line default
 #line hidden
 #nullable disable
-    public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/ipo")]
+    public partial class IPO : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -83,16 +84,25 @@ using BlazerTutorial.Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 37 "C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\Shared\NavMenu.razor"
-       
-    private bool collapseNavMenu = true;
+#line 16 "C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\Pages\IPO.razor"
+ 
 
-    private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+    private string InputString { get; set; }
 
-    private void ToggleNavMenu()
+    private string OutputString { get; set; }
+
+    private void DoProcessing()
+
     {
-        collapseNavMenu = !collapseNavMenu;
+
+        double num = double.Parse(InputString);
+
+        num = num * 2;
+
+        OutputString = num.ToString();
+
     }
+
 
 #line default
 #line hidden

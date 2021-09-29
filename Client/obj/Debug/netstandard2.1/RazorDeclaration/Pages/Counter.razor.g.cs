@@ -87,10 +87,12 @@ using BlazerTutorial.Client.Shared;
 #line 9 "C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\Pages\Counter.razor"
        
     private int currentCount = 0;
+    [Parameter]
+    public int IncrementAmount { get; set; } = 1;
 
     private void IncrementCount()
     {
-        currentCount++;
+        currentCount += IncrementAmount;
     }
 
 #line default
