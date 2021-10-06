@@ -1,0 +1,44 @@
+﻿@page "/todo"
+<!-- Displays a count of uncompleted items -->
+<h1>Todo (@todos.Count(todo => !todo.IsDone))</h1>
+
+<!-- This is the display of the entire list. -->
+<ul>
+    <!-- A loop for each item in todos -->
+    @foreach (var todo in todos)
+    {
+        <!-- List element for each item -->
+        <li>
+            <!-- A checkbox to determine if the todo item is done.' -->
+            <input type="checkbox" @bind="todo.IsDone" />
+            <!-- This holds the name of the item on the list. -->
+            <input @bind="todo.Title" />
+        </li>
+    }
+</ul>
+<!-- Input field to add new items to the todo list. -->
+<input placeholder="Something todo" @bind="newTodo" />
+<!-- This button adds new item into the todo list.  -->
+<button @onclick="AddTodo">Add todo</button>
+
+@code {
+    // List of todo items.
+    private List<TodoItem> todos = new List<TodoItem>();
+
+    // Used to hold name of new item to add to list.
+    private string newTodo;
+
+    // Adds items to the todo list
+    private void AddTodo()
+    {
+        // Checks if new item name is empty.
+        if (!string.IsNullOrWhiteSpace(newTodo))
+        {
+            // Creates a new item and adds item to the list
+            todos.Add(new TodoItem { Title = newTodo });
+
+            // Empties the input box.
+            newTodo = string.Empty;
+        }
+    }
+}

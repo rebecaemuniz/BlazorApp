@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\UikkOsFmlnq1ltXq7C2Ik8bdsNvkvthjpYXMHaavTFM=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\b66BHifZa1V_Ccha_t8h6P7Hac79iAXd5FZ1cttA9KY=.hash",
       "Source": "C:\\Users\\Rebeca Muniz\\OneDrive - Florida Gulf Coast University\\Visual Studios Projects\\BlazerTutorial\\BlazerTutorial\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazerTutorial.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazerTutorial.Client.dll.br"
     },
@@ -266,7 +266,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\fal6xLTvW7pjsNGFwaSxncgWSlE6KsS6MpHIkFheij8=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\oFK7soEIQ1skOM1adQ9xcOIj-QjNivcfX1HYC6i85SE=.hash",
       "Source": "C:\\Users\\Rebeca Muniz\\OneDrive - Florida Gulf Coast University\\Visual Studios Projects\\BlazerTutorial\\BlazerTutorial\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazerTutorial.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazerTutorial.Client.pdb.br"
     },
@@ -296,7 +296,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\tuqknIAZE4UFDdFqLNakdjRp0rNzY97iOakYytOBVmc=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\0Q0aDJnzWrnzkL85tjc47OQUKoEzrupB_KQ5sveGHqY=.hash",
       "Source": "C:\\Users\\Rebeca Muniz\\OneDrive - Florida Gulf Coast University\\Visual Studios Projects\\BlazerTutorial\\BlazerTutorial\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     }

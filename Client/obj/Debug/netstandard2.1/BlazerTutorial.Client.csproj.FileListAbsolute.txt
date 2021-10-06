@@ -370,6 +370,8 @@ C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Pr
 C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\obj\Debug\netstandard2.1\BlazerTutorial.Client.pdb
 C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\IPO.razor.g.cs
 C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\obj\Debug\netstandard2.1\Razor\Pages\IPO.razor.g.cs
-C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\obj\Debug\netstandard2.1\integrity\UikkOsFmlnq1ltXq7C2Ik8bdsNvkvthjpYXMHaavTFM=.hash
-C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\obj\Debug\netstandard2.1\integrity\fal6xLTvW7pjsNGFwaSxncgWSlE6KsS6MpHIkFheij8=.hash
-C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\obj\Debug\netstandard2.1\integrity\tuqknIAZE4UFDdFqLNakdjRp0rNzY97iOakYytOBVmc=.hash
+C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Todo.razor.g.cs
+C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\obj\Debug\netstandard2.1\Razor\Pages\Todo.razor.g.cs
+C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\obj\Debug\netstandard2.1\integrity\b66BHifZa1V_Ccha_t8h6P7Hac79iAXd5FZ1cttA9KY=.hash
+C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\obj\Debug\netstandard2.1\integrity\oFK7soEIQ1skOM1adQ9xcOIj-QjNivcfX1HYC6i85SE=.hash
+C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\obj\Debug\netstandard2.1\integrity\0Q0aDJnzWrnzkL85tjc47OQUKoEzrupB_KQ5sveGHqY=.hash

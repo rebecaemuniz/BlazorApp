@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace BlazerTutorial.Client.Shared
+namespace BlazerTutorial.Client.Pages
 {
     #line hidden
     using System;
@@ -75,7 +75,8 @@ using BlazerTutorial.Client.Shared;
 #line default
 #line hidden
 #nullable disable
-    public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/todo")]
+    public partial class Todo : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -83,15 +84,18 @@ using BlazerTutorial.Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 38 "C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\Shared\NavMenu.razor"
+#line 16 "C:\Users\Rebeca Muniz\OneDrive - Florida Gulf Coast University\Visual Studios Projects\BlazerTutorial\BlazerTutorial\Client\Pages\Todo.razor"
        
-    private bool collapseNavMenu = true;
+    private List<TodoItem> todos = new List<TodoItem>();
+    private string newTodo;
 
-    private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
-
-    private void ToggleNavMenu()
+    private void AddTodo()
     {
-        collapseNavMenu = !collapseNavMenu;
+        if (!string.IsNullOrWhiteSpace(newTodo))
+        {
+            todos.Add(new TodoItem { Title = newTodo });
+            newTodo = string.Empty;
+        }
     }
 
 #line default
